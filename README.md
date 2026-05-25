@@ -12,8 +12,8 @@
 </br>
  <br>
 </br>
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤzzz 1505274233<br>
-</br>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤooooooooo vstavilos
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤzzz 1505274233<br>
+</br>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤooooooooo vstavilos
 
 <br clear="left"/>
 <br>
@@ -21,7 +21,7 @@
 
 <div align="center">
   
-  ![](https://komarev.com/ghpvc/?username=mpregtop&color=e2758f&style=plastic&label=´꒳`)
+ ㅤ ![](https://komarev.com/ghpvc/?username=mpregtop&color=e2758f&style=plastic&label=´꒳`)
 
 
 
