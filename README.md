@@ -7,7 +7,7 @@
 
 </div>
 
-<img src="https://github.com/user-attachments/assets/5d6c3b63-6a09-4f62-893d-be1dd36168fd" align="left" width="300px"/>
+<img src="3.png" align="left" width="300px"/>
  <br>
 </br>
  <br>
@@ -34,7 +34,7 @@
 
 </div>
 
-<img src="https://github.com/user-attachments/assets/e448ecbe-e9aa-4173-899b-43a9bbf06f6a" align="right" width="650px"/><br>
+<img src="23.png" align="right" width="650px"/><br>
 </br>
 <a href=https://mpregtop.atabook.org/>![新book]</a><br>
 </br>
