@@ -2,36 +2,28 @@
 <div align="center">
   <h3>(ᵔ⩊ᵔ)</h3>
 </div>
-    
-  ![](https://placehold.co/1100x1/eba2b4/eba2b4)
 
+<div align="center">
+  <img src="https://placehold.co/4000x1/eba2b4/eba2b4" align="center" height="2" width="800"/>
 </div>
 
 <img src="3.png" align="left" width="300px"/>
- <br>
-</br>
- <br>
-</br>
-<br>
-</br>
+   <br>
+  </br>
+   <br>
+  </br>
+  <br>
+  </br>
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤzzz 1505274233<br>
-</br>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤooooooooo vstavilos
+  </br>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤooooooooo vstavilos
 
-<br clear="left"/>
-<br>
-</br>
+  <br clear="left"/>
+  <br>
+  </br>
 
 <div align="center">
   
  ㅤ ![](https://komarev.com/ghpvc/?username=mpregtop&color=e2758f&style=plastic&label=´꒳`)
-
-
-
-ㅤ
-ㅤ
-
-<div align="center">
-
 </div>
 
 <img src="23.png" align="right" width="650px"/><br>
