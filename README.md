@@ -15,8 +15,6 @@
     </br>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤooooooooo vstavilos
 
   <br clear="left"/>
-  <br>
-  </br>
 
 <div align="center">
   
