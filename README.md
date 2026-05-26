@@ -7,16 +7,18 @@
   <img src="https://placehold.co/4000x1/eba2b4/eba2b4" align="center" height="2" width="800"/>
 </div>
 
-<img src="3.png" align="left" width="300px"/>
-  </br>
-  </br>
-  </br>
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤzzz 1505274233<br>
-  </br>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤooooooooo vstavilos
+<div align="center">
+  <img src="3.png" align="left" width="300px"/>
+     </br>
+     </br>
+     </br>
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤzzz 1505274233<br>
+    </br>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤooooooooo vstavilos
 
   <br clear="left"/>
   <br>
   </br>
+</div>
 
 <div align="center">
   
