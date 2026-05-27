@@ -25,7 +25,7 @@
 <div align="center">
 <img src="23.png" align="right" width="550px"/><br>
 </br>
-ㅤ<a href=https://mpregtop.atabook.org/>!新book</a><br>
+ㅤ<a href=https://mpregtop.atabook.org/>![新book]</a><br>
 </br>
 ㅤㅤㅤㅤㅤㅤㅤㅤ<p>! ! !</p>
 ㅤㅤㅤㅤㅤㅤㅤㅤ<p>???</p>
